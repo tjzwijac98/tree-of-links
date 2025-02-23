@@ -9,6 +9,7 @@ body {
     background-image: url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdzdGtvM3F4bnJyMmdxcHdqbXk2c2E2YWJxenRlem4wNjZ3YnZ5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sCIIl5TVOzdfmRfMI0/giphy.gif");
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100%;
     width: 100vw;
     font-family: Verdana, Tahoma, sans-serif;
 }
