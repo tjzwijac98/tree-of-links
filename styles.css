@@ -60,7 +60,7 @@ color: black}
 .tile:hover {transform:scale(1.02);
 transition: cubic-bezier(.07, 1.41, 0.82, 1.41),.02s;
 background-color: mediumpurple}
-h1{font-size: 20px}
+h1{font-size: 20px; color: black}
 a{text-decoration: none;
     color: rgb(240,240,240);}
 
