@@ -1,2 +1,2 @@
 # tree-of-links
-My Linktree Clon
+My Linktree Clone
